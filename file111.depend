@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1482851358 source:c:\users\hp-win10\desktop\file111\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1482898627 source:c:\users\hp-win10\desktop\file111 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1482898627 source:f:\project\first project\file111 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
